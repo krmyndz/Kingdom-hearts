@@ -1,0 +1,10 @@
+{
+  "name": "KINGDOM HEARTS - Dearly Beloved",
+  "description": "Made by Yoko Shimomura, appears in the main menu of Kingdom Hearts I",
+  "author": "krmyndz",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
